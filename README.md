@@ -1,4 +1,4 @@
-#Proje Özelliklerinin Açıklaması
+# Proje Özelliklerinin Açıklaması
 
 <strong>1.</strong>Proje'de iki tane CLASS kullandım. Birincisi "Stock" stok kontrolü için methodlar barındırıyor,diğeri ise "Order" siparişi oluşturma methodlarını barındırıyor. Stock:"3-70" satırları arası ve  Order:"75-234".satırlar arasında"
 
